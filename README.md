@@ -1,2 +1,3 @@
 # Linnunrata-Verkkosivuprojekti
 Verkkosivut Linnunradasta
+Ammattikorkeakoulussa tehty verkkosivuprojekti html-koodikieltä hyödyntäen. Verkkosivuprojektissa keskityttiin visuaaliseen näkymään, kuin verkkosivun käyttökokemukseen.
